@@ -5,6 +5,9 @@ __pycache__/
 
 # Models and Data
 *.pt
+*.png
+*.jpg
+*.txt
 
 # C extensions
 *.so
